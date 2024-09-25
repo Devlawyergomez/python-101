@@ -1,7 +1,7 @@
 # Temperature 🌡
 # Codédex
+Farenheit= 64
 
-temp_f = 56
-temp_c = (temp_f - 32) / 1.8
+Celsius = (Farenheit-32) / 1.8
 
-print(temp_c)
+print(Celsius)
